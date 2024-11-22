@@ -1,11 +1,12 @@
 # BayesCrash
 
-![The reverend Thomas Bayes](https://upload.wikimedia.org/wikipedia/commons/d/d4/Thomas_Bayes.gif)
-<center>Possible portrait of The Reverend Thomas Bayes (c. 1701–1761).</center>
-
 This jupyter notebook is essentially a crash course in Bayesian statistics where I try to cover the most important probabilistic ideas and numerical methods for the Master/PhD course Geophysical Data Science GEO4300/GEO9300 at the University of Oslo. It is a guest lecture that I give in a course led by Norbert Pirk covering a wide range of data science topics with relevance to research in geophysics of the entire Earth system (not just fossils) and beyond.
 
 Please reach out to Kristoffer Aalstad (kristoffer.aalstad@geo.uio.no) if you spot any typos, errors, or have any feedback. 
+
+Possible portrait of The Reverend Thomas Bayes (c. 1701–1761)
+![The reverend Thomas Bayes](https://upload.wikimedia.org/wikipedia/commons/d/d4/Thomas_Bayes.gif)
+
 
 # References
 
