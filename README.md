@@ -2,7 +2,7 @@
 
 ![The reverend Thomas Bayes](https://upload.wikimedia.org/wikipedia/commons/d/d4/Thomas_Bayes.gif)
 
-This jupyter notebook is essentially a crash course in Bayesian statistics where I try to cover the most important probabilistic ideas and numerical methods for the Master/PhD course Geophysical Data Science GEO4300/GEO9300 led by Norbert Pirk at the University of Oslo. It corresponds to a 2 hour guest lecture that I give in this course, but the notebook should be completely self-contained and is thus arguably well suited for self-study. This geophysical data science course covers wide range of data science topics with relevance to research in geophysics of the entire Earth system (not just fossils) and beyond.
+This jupyter notebook is essentially a crash course in Bayesian statistics where I try to cover the most important probabilistic ideas and numerical methods for the Master/PhD course Geophysical Data Science GEO4300/GEO9300 led by Norbert Pirk at the University of Oslo. It corresponds to a 2 hour guest lecture that I give in this course, but the notebook should be completely self-contained and is thus arguably well suited for self-study. The geophysical data science course we offer covers wide range of data science topics with relevance to research in geophysics of the entire Earth system (not just fossils) and beyond.
 
 Please reach out to me Kristoffer Aalstad (kristoffer.aalstad@geo.uio.no) if you spot any typos, errors, or have any feedback. 
 
