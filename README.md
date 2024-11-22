@@ -10,6 +10,7 @@ Please reach out to me Kristoffer Aalstad (kristoffer.aalstad@geo.uio.no) if you
 # References
 
 Freely available as pdfs online:
+
 Evensen et al. (2022): Data Assimialtion Fundamentals, [doi:10.1007/978-3-030-96709-3](https://doi.org/10.1007/978-3-030-96709-3)
 
 Gelman et al. (2013): Bayesian Data Analysis (3rd ed), [doi:10.1201/b16018](https://doi.org/10.1201/b16018)
@@ -23,6 +24,8 @@ As far as I know not free, but also great resources:
 Otsuka (2023): Thinking about Statistics, [doi:10.4324/9781003319061](https://doi.org/10.4324/9781003319061)
 
 McElreath (2020): Statistical Rethinking (2nd ed), [doi:10.1201/9780429029608](https://doi.org/10.1201/9780429029608)
+
+I would also warmly recommend checking Richard McElreath's fantastic lectures on YouTube.
 
 # Acknowledgements
 
