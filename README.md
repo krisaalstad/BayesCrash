@@ -2,7 +2,7 @@
 
 ![The reverend Thomas Bayes](https://upload.wikimedia.org/wikipedia/commons/d/d4/Thomas_Bayes.gif)
 
-  This jupyter notebook is essentially a crash course in Bayesian inference for geophysical data assimilation and related topics where I try to cover the most important probabilistic ideas and numerical methods based on lectures we have given for the Master/PhD course Geophysical Data Science GEO4300/GEO9300 led by Norbert Pirk [@norberp](https://www.github.com/norberp) at the University of Oslo. It corresponds roughly to a 2 hour guest lecture that I give in this course, but the notebook should be completely self-contained and is thus arguably well suited for self-study. The geophysical data science course we offer [uio.no/studier/emner/matnat/geofag/GEO4300/](https://www.uio.no/studier/emner/matnat/geofag/GEO4300/) covers wide range of data science topics with relevance to research in geophysics of the entire Earth system (not just fossils) and beyond while being almost entirely based on modern and open programming tools in the form of jupyter notebooks and the Python programming language.
+  This jupyter notebook is essentially a crash course in Bayesian inference with applications to  geophysical data assimilation, machine learning, geostatistics, and inverse modeling where I try to cover the most important probabilistic ideas and numerical methods based on lectures we have given for the Master/PhD course Geophysical Data Science GEO4300/GEO9300 led by Norbert Pirk [@norberp](https://www.github.com/norberp) at the University of Oslo. It corresponds roughly to a 2 hour guest lecture that I give in this course, but the notebook should be completely self-contained and is thus arguably well suited for self-study. The geophysical data science course we offer [uio.no/studier/emner/matnat/geofag/GEO4300/](https://www.uio.no/studier/emner/matnat/geofag/GEO4300/) covers wide range of data science topics with relevance to research in geophysics of the entire Earth system (not just fossils) and beyond while being almost entirely based on modern and open programming tools in the form of jupyter notebooks and the Python programming language.
 
 Please reach out to me Kristoffer Aalstad (kristoffer.aalstad@geo.uio.no) if you spot any typos, errors, or have any feedback. 
 
@@ -25,7 +25,7 @@ Otsuka (2023): Thinking about Statistics, [doi:10.4324/9781003319061](https://do
 
 McElreath (2020): Statistical Rethinking (2nd ed), [doi:10.1201/9780429029608](https://doi.org/10.1201/9780429029608)
 
-I would also warmly recommend checking Richard McElreath's fantastic lectures on YouTube.
+I would also warmly recommend checking out Richard McElreath's fantastic [lectures](https://youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&si=9o5e2ipmIjGRemvV) on YouTube.
 
 # Acknowledgements
 
