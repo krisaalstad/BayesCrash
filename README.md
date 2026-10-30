@@ -46,8 +46,33 @@ Otsuka (2023): Thinking about Statistics, [doi:10.4324/9781003319061](https://do
 
 McElreath (2020): Statistical Rethinking (2nd ed.), [doi:10.1201/9780429029608](https://doi.org/10.1201/9780429029608)
 
-I would also warmly recommend checking out Richard McElreath's fantastic [lectures](https://youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus) on YouTube.
+I would also warmly recommend checking out Richard McElreath's fantastic [lectures](https://youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus) on YouTube and Alex Andorra's fun Learning Bayesian Statistics [podcast](https://learnbayesstats.com/) which is a great way to keep up with developments in the field. 
+
+# Related resources
+
+Tools I have contributed to for cryospheric data assimilation:
+
+- [TACO](https://github.com/krisaalstad/taco): toy examples for snow data assimilation building on ideas in this notebook.
+- [MuSA](https://github.com/ealonsogzl/MuSA): the Multiple Snow Data Assimilation toolbox for applying ensemble-based data assimilation to real snow problems, described in [Alonso-González et al. (2022)](https://doi.org/10.5194/gmd-15-9127-2022).
+
+General data assimilation:
+
+- [DA-tutorials](https://github.com/nansencenter/DA-tutorials): Jupyter tutorials building up from Bayes' rule to the ensemble Kalman filter.
+- [DAPPER](https://github.com/nansencenter/DAPPER): a Python toolbox for benchmarking data assimilation methods on toy models.
+- [DART](https://github.com/NCAR/DART): NCAR's community facility for ensemble data assimilation with large geophysical models.
+
+Probabilistic programming and sampling:
+
+- [PyMC](https://www.pymc.io): a Python library for Bayesian modeling with modern MCMC and variational inference.
+- [Stan](https://mc-stan.org): a probabilistic programming language with state-of-the-art Hamiltonian Monte Carlo, with interfaces for Python, R, and Julia.
+- [Turing.jl](https://turinglang.org): a Julia library for probabilistic programming, with a range of MCMC and variational inference methods.
+- [BlackJAX](https://github.com/blackjax-devs/blackjax): a library of samplers (HMC, NUTS, SMC, and more) in JAX that you can apply directly to your own log-density functions.
+
 
 # Acknowledgements
 
 We kindly thank all open data providers. Data from the Blindern meteorological station (SN18700) on the University of Oslo campus was obtained from the Norwegian Meteorological Institute through [https://seklima.met.no/](https://seklima.met.no/). GISS Surface Temperature Analysis (GISTEMP) data was obtained from the NASA Goddard Institute for Space Studies via [https://data.giss.nasa.gov/gistemp/](https://data.giss.nasa.gov/gistemp/).
+
+# License
+
+The code in this repository is licensed under the [MIT License](LICENSE). The text, equations, and figures in the notebook are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
